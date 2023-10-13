@@ -1,0 +1,27 @@
+NAME - KOMAKAMBETI KRISHNA PRASAD REDDY
+LEARNING TRACK - DEVELOPER
+EMAIL - Krishnaprasadreddy17@gmail.com
+TRAILHEAD PROFILE - https://www.salesforce.com/trailblazer/krishnaprasad6336
+USERNAME (DEVELOPER ORG ) - krishnaprasadreddy17@gdcproject.com
+CONTACT - 9398921167
+
+NAME - KATAKAM HARSHA VARDHAN
+LEARNING TRACK - DEVELOPER
+EMAIL - harshavardhan200402@gmail.com
+TRAILHEAD PROFILE - https://www.salesforce.com/trailblazer/harshavardhan8308
+USERNAME (DEVELOPER ORG ) - katakamharshavardham@gdcproject.com
+CONTACT - 9390916269
+
+NAME - KOMMINENI LEELA VARUN
+LEARNING TRACK - DEVELOPER
+EMAIL - leelavarun740@gmail.com
+TRAILHEAD PROFILE -https://www.salesforce.com/trailblazer/leelavarunkommineni
+USERNAME (DEVELOPER ORG ) - leelavarun@gdcproject.com
+CONTACT - 8897325052
+
+NAME - NANOORI ABHISHEK
+LEARNING TRACK - DEVELOPER
+EMAIL - shek71917@gmail.com
+TRAILHEAD PROFILE - https://www.salesforce.com/trailblazer/abhisheknanoori
+USERNAME (DEVELOPER ORG ) - shek71917@gayatri.com
+CONTACT - 9121860337
