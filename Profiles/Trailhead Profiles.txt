@@ -25,3 +25,11 @@ EMAIL - shek71917@gmail.com
 TRAILHEAD PROFILE - https://www.salesforce.com/trailblazer/abhisheknanoori
 USERNAME (DEVELOPER ORG ) - shek71917@gayatri.com
 CONTACT - 9121860337
+
+
+NAME - ADDANKI MONESH
+LEARNING TRACK - DEVELOPER
+EMAIL - amonesh906@gmail.com
+TRAILHEAD PROFILE - https://www.salesforce.com/trailblazer/moneshaddanki7344
+USERNAME (DEVELOPER ORG ) - amonesh90@gdcproject.com
+CONTACT - 8121272674
